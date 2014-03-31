@@ -9,6 +9,12 @@
   },
   {
     "remote":      "gh",
+    "repository":  "CyanogenMod/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision":    "cm-11.0"
+  },
+  {
+    "remote":      "gh",
     "repository":  "CyanogenMod/android_kernel_motorola_msm8226",
     "target_path": "kernel/motorola/msm8226",
     "revision":    "cm-11.0"
