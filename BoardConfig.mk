@@ -28,6 +28,10 @@
 
 LOCAL_PATH := device/motorola/falcon
 
+# Google IME
+PRODUCT_COPY_FILES += \
+device/motorola/falcon/prebuilt/GoogleIME.apk:system/app/GoogleIME.apk
+
 # Vendor Init
 TARGET_UNIFIED_DEVICE := true
 TARGET_INIT_VENDOR_LIB := libinit_msm
