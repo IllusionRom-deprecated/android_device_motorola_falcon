@@ -17,4 +17,4 @@ PRODUCT_MANUFACTURER := Motorola
 
 # bootanimation
 PRODUCT_COPY_FILES += \
-        vendor/illusion/bootanimation/Illusion720x720.zip:system/media/bootanimation.zip
+        vendor/illusion/bootanimation/720x1280.zip:system/media/bootanimation.zip
